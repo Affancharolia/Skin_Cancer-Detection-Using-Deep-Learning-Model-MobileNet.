@@ -19,3 +19,4 @@ Link to the dataset: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ha
 
 Video Link: https://youtu.be/ohGPfQFkmL0
 
+To run the Web Application you will require flask installed on the system. Next in the Skin_Cancer folder is the sc_app.py which can be executed as a python file and thenon the local server the web app can be accessed after which the project can be tested.
